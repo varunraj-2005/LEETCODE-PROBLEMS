@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunraj-2005/LEETCODE-PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varunraj-2005/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/varunraj-2005/LEETCODE-PROBLEMS/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
